@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="6ndyZ7YtwIBiwyRTEqt-bqkCsrXsT52KrBzxggorZ-k" />
+<meta name="google-site-verification" content="6ndyZ7YtwIBiwyRTEqt-bqkCsrXsT52KrBzxggorZ-k" /> 
 
 # Lenovo-Yoga-C740-81TD-OpenCore-Hackintosh
 My customized OpenCore EFI folder and config for running macOS Ventura and Sonoma on the Lenovo Yoga C740 81TD 15IML
