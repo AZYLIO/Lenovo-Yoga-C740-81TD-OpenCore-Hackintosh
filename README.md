@@ -16,12 +16,21 @@ EFI is based on OpenCore 0.9.4 Dev.. Readme is WIP
 | Wireless    | Intel(R) Wi-Fi 6E AX210 160MHz |
 | Display     | Lenovo Touch Display 1920x1080  |
 
-## Current Issues
-Display does not wake up from sleep
-Touch screen only works when closing the laptop for 2 seconds and opening it
-No Lenovo Pen/Wacom support
-Microphone does not work as Intel SST is not supported
+# BIOS Setup
+## Enable
+-Load BIOS config defaults and then disable the security settings below<br><br>
 
-## Working
+# Disable
+-Secure Boot<br>
+-intel platform trust technology (Intel PTT)<br>
+-Intel(R) SGX<br><br>
+
+# Current Issues
+-Display does not wake up from sleep<br>
+-Touch screen only works when closing the laptop for 2 seconds and opening it<br>
+-No Lenovo Pen/Wacom support<br>
+-Microphone does not work as Intel SST is not supported<br>
+
+# Working
 -Everything Else including iMessage & Facetime with appropriate SMBIOS/ROM configuration<br>
 -AirportItlwm kexts are included for Ventura and Sonoma, it is auto configured in the config, AirportItlwm for Sonoma is based on Preview2 and is still WIP, Will be updated once released
