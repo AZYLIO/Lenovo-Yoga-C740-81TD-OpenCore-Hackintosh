@@ -1,16 +1,14 @@
-<meta name="google-site-verification" content="6ndyZ7YtwIBiwyRTEqt-bqkCsrXsT52KrBzxggorZ-k" /> 
-
 # Lenovo-Yoga-C740-81TD-OpenCore-Hackintosh
-My customized OpenCore EFI folder and config for running macOS Ventura and Sonoma on the Lenovo Yoga C740 81TD 15IML
+My personal customized OpenCore EFI folder and config for running macOS Ventura and Sonoma beta on the Lenovo Yoga C740 81TD 15IML
 
 EFI is based on OpenCore 0.9.4 Dev.. Readme is WIP
 
-## Configured for Lenovo Yoga C740 81TD
+# Configured for Lenovo Yoga C740 81TD
 
 | Device      | Model               |
 | ----------- | ------------------- |
 | Laptop      | Lenovo Yoga C740-15IML-81TD |
-| CPU         | Intel Core i5-10210U |
+| CPU         | Intel Core i5 10210U |
 | RAM         | Samsung 12GB 8+4 2667 MHz |
 | Storage     | Sabrent Rocket 1TB NVMe SSD |
 | GPU         | Intel Graphics UHD 630 |
