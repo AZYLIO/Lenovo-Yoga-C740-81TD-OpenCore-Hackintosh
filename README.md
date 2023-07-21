@@ -14,7 +14,7 @@ EFI is based on OpenCore 0.9.4 Dev.. Readme is WIP
 | GPU         | Intel Graphics UHD 630 |
 | Audio  | Realtek ALC285 |
 | Wireless    | Intel(R) Wi-Fi 6E AX210 160MHz |
-| Display     | Lenovo Touch Display 1920x1080  |
+| Display     | 15.6" Lenovo Touch Display 1920x1080  |
 
 # BIOS Setup
 ## Enable
